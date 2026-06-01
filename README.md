@@ -13,6 +13,9 @@
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,html,css,vscode,pycharm" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 <h2 align="center" ></h2>
 <br
