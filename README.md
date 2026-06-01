@@ -14,6 +14,15 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,html,css,vscode,pycharm" />
 </div>
 
+<h2 align="center" ></h2>
+<br
+
+</div>
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</h1>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -23,18 +32,4 @@
     <img alt="pacman contribution graph"
       src="https://raw.githubusercontent.com/Caio-25/Caio-25/output/pacman-contribution-graph.svg">
   </picture>
-</div>
-
-
-
-<h2 align="center" ></h2>
-<br
-
-</div>
-<br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
-</h1>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
