@@ -14,6 +14,12 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,html,css,vscode,pycharm" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="300">
+</div>
+
+
+
 
 <h2 align="center" ></h2>
 <br
