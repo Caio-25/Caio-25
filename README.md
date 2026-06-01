@@ -14,7 +14,16 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,html,css,vscode,pycharm" />
 </div>
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/caio-25/caio-25/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/caio-25/caio-25/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/caio-25/caio-25/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 
 
