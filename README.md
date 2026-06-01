@@ -6,7 +6,7 @@
 
 <div  align="center" >
   <br>
-🌱 Atualmente estou estudando Flask ...
+📚 Atualmente estou estudando Flask ...
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
