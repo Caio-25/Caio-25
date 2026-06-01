@@ -15,11 +15,6 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,html,css,vscode,pycharm" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Caio-25/Caio-25/main/assets/pacman-skills.svg">
-</div>
-
-
 
 <h2 align="center" ></h2>
 <br
