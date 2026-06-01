@@ -17,11 +17,11 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/caio-25/caio-25/output/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/Caio-25/Caio-25/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/caio-25/caio-25/output/pacman-contribution-graph.svg">
+      srcset="https://raw.githubusercontent.com/Caio-25/Caio-25/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/caio-25/caio-25/output/pacman-contribution-graph.svg">
+      src="https://raw.githubusercontent.com/Caio-25/Caio-25/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
