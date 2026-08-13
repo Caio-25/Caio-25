@@ -12,7 +12,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,selenium,html,css,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,flask,selenium,html,css,vscode,pycharm" />
 </div>
 
 
